@@ -1,0 +1,9 @@
+Being the consultant of Alphacom.I really appreciate the growth made by the company.Our revenue have touched 18%.We have been diligent to deliver great product to our client.
+For the future of Alphacom I would like to put forward some points which are necessary for the growth of the company.
+1.Since our client are mostly belonging to healthcare and banking domain.Hence we need to cloudify our infrastructure.
+2. Well Banks and heathcare all the system based for this domain generate real time data and the data is being generated at a very faster pace,
+so in order to meet the requirement of client we require cloud as a service
+3. Cloud as a service will help us in reducing the cost of admin and installation and will help us manage our business in a efficient way
+4. Cloud will help us invest in business more rather than IT.
+5. For Banking Cloud will be a fast and secure platform.
+6. Since machine learning is a helpful tool for enhancement of business hence we require cloud services to bring AI into the picture. 
